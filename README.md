@@ -3,7 +3,6 @@ A lightweight Windows desktop app to trim videos instantly — no re-encoding, n
 
 <div align="center">
 
-<img src="MyVideoCutter/app.ico" width="80" height="80" alt="My Video Cutter Icon"/>
 
 # ✂ My Video Cutter
 
@@ -19,6 +18,9 @@ A lightweight Windows desktop app to trim videos instantly — no re-encoding, n
 ---
 ## 🖼 Screenshot
 <img width="607" height="474" alt="image" src="https://github.com/user-attachments/assets/9cece7de-1dd4-4bdf-95fe-45eacdbc4d0c" />
+
+## [Download -Click here](https://raw.githubusercontent.com/Dinesh6777/MyVideoCutter/refs/heads/main/Download/MyVideoCutter.exe)
+
 
 ## 📖 Overview
 
