@@ -202,9 +202,9 @@ This project is licensed under the MIT License.
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | **Offline Video Cutter**    | This offline app allows you to cut video files without needing an internet connection.                                                                        | No need for an internet connection; works seamlessly offline.   |
 | **Crop Video**              | Cropping allows you to frame the video to the desired area or change the frame proportions.                                                                    | Easily focus on the important parts of the video.                |
-| **Rotate Video**            | You can rotate your video 90, 180, or 270 degrees, which is helpful if a portrait scene was shot in landscape mode, or vice versa.                             | Quickly fix video orientation for the correct view.             |
+            |
 | **Any Format Supported**    | The app supports almost every video format. If your file fails to open, it may be damaged or too large.                                                         | Supports a wide range of video formats for flexibility.          |
-| **Easy Video Trimming**     | After uploading your file, you can select the output quality and format with no complicated controls. Everything is just a few clicks away.                     | Simple and intuitive trimming with minimal steps.                |
+| **Easy Video Trimming**     | After selecting your file, add your trim points and cut your video with no complicated controls. Everything is just a few clicks away.                     | Simple and intuitive trimming with minimal steps.                |
 | **Security Guaranteed**     | Your files are on your device, ensuring privacy and security.                                        | Peace of mind knowing your files are safe and private.           |
 | **Offline Video Editing**   | The app allows video cutting and editing directly on your device, with no need for an internet connection. Any file size is supported, no limits                  | Full control over your video editing without relying on the internet. |
 
