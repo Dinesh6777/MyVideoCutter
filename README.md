@@ -1,5 +1,5 @@
 # MyVideoCutter
-A lightweight Windows desktop app to trim videos instantly — no re-encoding, no quality loss.
+A lightweight Windows desktop app to trim videos instantly — no re-encoding, no quality loss. It's an offline video cutter with no limits and watermark.
 
 <div align="center">
 
@@ -198,9 +198,48 @@ This project is licensed under the MIT License.
 - [Microsoft .NET](https://dotnet.microsoft.com/) — WinForms application framework
 
 ---
+| **Feature**                | **Description**                                                                                                                                               | **Benefit**                                                      |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| **Offline Video Cutter**    | This offline app allows you to cut video files without needing an internet connection.                                                                        | No need for an internet connection; works seamlessly offline.   |
+| **Crop Video**              | Cropping allows you to frame the video to the desired area or change the frame proportions.                                                                    | Easily focus on the important parts of the video.                |
+| **Rotate Video**            | You can rotate your video 90, 180, or 270 degrees, which is helpful if a portrait scene was shot in landscape mode, or vice versa.                             | Quickly fix video orientation for the correct view.             |
+| **Any Format Supported**    | The app supports almost every video format. If your file fails to open, it may be damaged or too large.                                                         | Supports a wide range of video formats for flexibility.          |
+| **Easy Video Trimming**     | After uploading your file, you can select the output quality and format with no complicated controls. Everything is just a few clicks away.                     | Simple and intuitive trimming with minimal steps.                |
+| **Security Guaranteed**     | Your files are on your device, ensuring privacy and security.                                        | Peace of mind knowing your files are safe and private.           |
+| **Offline Video Editing**   | The app allows video cutting and editing directly on your device, with no need for an internet connection. Any file size is supported, no limits                  | Full control over your video editing without relying on the internet. |
 
 <div align="center">
 
 Made with ❤ using C# and FFmpeg
 
 </div>
+
+| SEO Keyword Tags                |
+|----------------------------------|
+| MyVideoCutter                    |
+| Video Cutter                     |
+| MKV Cutter                       |
+| MOV Cutter                       |
+| WEBM Cutter                      |
+| WMV Cutter                       |
+| MPEG Cutter                      |
+| ASF Cutter                       |
+| Android Video Cutter             |
+| Offline Video Cutter             |
+| Lossless Video Cutter            |
+| TikTok Video Cutter              |
+| Instagram Video Cutter           |
+| X (ex-Twitter) Video Trimmer     |
+| Video Editing Tool               |
+| Free Video Cutter                |
+| Video Trimming Software          |
+| Cut Video Files                  |
+| Trim Video Offline               |
+| Video Cutter for Android         |
+| Video Trimmer for Social Media   |
+| Video Cutter for TikTok          |
+| Instagram Video Trimming         |
+| Lossless Video Editing           |
+| MKV Video Cutter                 |
+| MOV Trimming Tool                |
+| MP4 Cutter                       |
